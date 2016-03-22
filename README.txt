@@ -1,6 +1,14 @@
-﻿/mbed
+﻿[mbed]
+/mbed/SevenSeg_senTmp4_v2
 7 segment LED  4dig ,display driver
+LM60BIZ sensor
 
+*) old version:
+/mbed/SevenSeg_senTmp4_v1
+7 segment LED  4dig ,display driver
+MCP9700 sensor
+
+[arduino]
 /arduino
 esp8266 ,http send/receive
 [arduino SDK] 1.6.5
